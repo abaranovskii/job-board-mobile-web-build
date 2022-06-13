@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/job-board-mobile-web-build/static/js/app.0ccb4b69.chunk.js",
-    "app.js.map": "/job-board-mobile-web-build/static/js/app.0ccb4b69.chunk.js.map",
+    "app.js": "/job-board-mobile-web-build/static/js/app.e6b0d972.chunk.js",
+    "app.js.map": "/job-board-mobile-web-build/static/js/app.e6b0d972.chunk.js.map",
     "runtime~app.js": "/job-board-mobile-web-build/static/js/runtime~app.dfba9f05.js",
     "runtime~app.js.map": "/job-board-mobile-web-build/static/js/runtime~app.dfba9f05.js.map",
-    "static/js/2.90cfe9e5.chunk.js": "/job-board-mobile-web-build/static/js/2.90cfe9e5.chunk.js",
-    "static/js/2.90cfe9e5.chunk.js.map": "/job-board-mobile-web-build/static/js/2.90cfe9e5.chunk.js.map",
+    "static/js/2.420bc8cd.chunk.js": "/job-board-mobile-web-build/static/js/2.420bc8cd.chunk.js",
+    "static/js/2.420bc8cd.chunk.js.map": "/job-board-mobile-web-build/static/js/2.420bc8cd.chunk.js.map",
     "fonts/AntDesign.ttf": "/job-board-mobile-web-build/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/job-board-mobile-web-build/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/job-board-mobile-web-build/./fonts/Feather.ttf",
@@ -24,7 +24,7 @@
     "index.html": "/job-board-mobile-web-build/index.html",
     "manifest.json": "/job-board-mobile-web-build/manifest.json",
     "serve.json": "/job-board-mobile-web-build/serve.json",
-    "static/js/2.90cfe9e5.chunk.js.LICENSE.txt": "/job-board-mobile-web-build/static/js/2.90cfe9e5.chunk.js.LICENSE.txt",
+    "static/js/2.420bc8cd.chunk.js.LICENSE.txt": "/job-board-mobile-web-build/static/js/2.420bc8cd.chunk.js.LICENSE.txt",
     "static/media/document-issued.svg": "/job-board-mobile-web-build/static/media/document-issued.c59bb127.svg",
     "static/media/login-bg.png": "/job-board-mobile-web-build/static/media/login-bg.99ef76bc.png",
     "static/media/login-map-bg.png": "/job-board-mobile-web-build/static/media/login-map-bg.528b3c57.png",
@@ -37,7 +37,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.dfba9f05.js",
-    "static/js/2.90cfe9e5.chunk.js",
-    "static/js/app.0ccb4b69.chunk.js"
+    "static/js/2.420bc8cd.chunk.js",
+    "static/js/app.e6b0d972.chunk.js"
   ]
 }
