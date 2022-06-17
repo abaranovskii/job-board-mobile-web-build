@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/job-board-mobile-web-build/static/js/app.e6b0d972.chunk.js",
-    "app.js.map": "/job-board-mobile-web-build/static/js/app.e6b0d972.chunk.js.map",
+    "app.js": "/job-board-mobile-web-build/static/js/app.ea53ca5b.chunk.js",
+    "app.js.map": "/job-board-mobile-web-build/static/js/app.ea53ca5b.chunk.js.map",
     "runtime~app.js": "/job-board-mobile-web-build/static/js/runtime~app.dfba9f05.js",
     "runtime~app.js.map": "/job-board-mobile-web-build/static/js/runtime~app.dfba9f05.js.map",
     "static/js/2.420bc8cd.chunk.js": "/job-board-mobile-web-build/static/js/2.420bc8cd.chunk.js",
@@ -38,6 +38,6 @@
   "entrypoints": [
     "static/js/runtime~app.dfba9f05.js",
     "static/js/2.420bc8cd.chunk.js",
-    "static/js/app.e6b0d972.chunk.js"
+    "static/js/app.ea53ca5b.chunk.js"
   ]
 }
