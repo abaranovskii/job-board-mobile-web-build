@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/job-board-mobile-web-build/static/js/app.ea53ca5b.chunk.js",
-    "app.js.map": "/job-board-mobile-web-build/static/js/app.ea53ca5b.chunk.js.map",
+    "app.js": "/job-board-mobile-web-build/static/js/app.851576fa.chunk.js",
+    "app.js.map": "/job-board-mobile-web-build/static/js/app.851576fa.chunk.js.map",
     "runtime~app.js": "/job-board-mobile-web-build/static/js/runtime~app.dfba9f05.js",
     "runtime~app.js.map": "/job-board-mobile-web-build/static/js/runtime~app.dfba9f05.js.map",
-    "static/js/2.420bc8cd.chunk.js": "/job-board-mobile-web-build/static/js/2.420bc8cd.chunk.js",
-    "static/js/2.420bc8cd.chunk.js.map": "/job-board-mobile-web-build/static/js/2.420bc8cd.chunk.js.map",
+    "static/js/2.2352a89c.chunk.js": "/job-board-mobile-web-build/static/js/2.2352a89c.chunk.js",
+    "static/js/2.2352a89c.chunk.js.map": "/job-board-mobile-web-build/static/js/2.2352a89c.chunk.js.map",
     "fonts/AntDesign.ttf": "/job-board-mobile-web-build/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/job-board-mobile-web-build/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/job-board-mobile-web-build/./fonts/Feather.ttf",
@@ -24,20 +24,14 @@
     "index.html": "/job-board-mobile-web-build/index.html",
     "manifest.json": "/job-board-mobile-web-build/manifest.json",
     "serve.json": "/job-board-mobile-web-build/serve.json",
-    "static/js/2.420bc8cd.chunk.js.LICENSE.txt": "/job-board-mobile-web-build/static/js/2.420bc8cd.chunk.js.LICENSE.txt",
-    "static/media/document-issued.svg": "/job-board-mobile-web-build/static/media/document-issued.c59bb127.svg",
+    "static/js/2.2352a89c.chunk.js.LICENSE.txt": "/job-board-mobile-web-build/static/js/2.2352a89c.chunk.js.LICENSE.txt",
     "static/media/login-bg.png": "/job-board-mobile-web-build/static/media/login-bg.99ef76bc.png",
     "static/media/login-map-bg.png": "/job-board-mobile-web-build/static/media/login-map-bg.528b3c57.png",
-    "static/media/logo.png": "/job-board-mobile-web-build/static/media/logo.5da5a874.png",
-    "static/media/visa-confirmed.svg": "/job-board-mobile-web-build/static/media/visa-confirmed.8c916f3a.svg",
-    "static/media/visa-process.svg": "/job-board-mobile-web-build/static/media/visa-process.a5c02592.svg",
-    "static/media/visa-set.svg": "/job-board-mobile-web-build/static/media/visa-set.21ea12e5.svg",
-    "static/media/work-issued.svg": "/job-board-mobile-web-build/static/media/work-issued.209b1b84.svg",
-    "static/media/work-started.svg": "/job-board-mobile-web-build/static/media/work-started.770fa05a.svg"
+    "static/media/logo.png": "/job-board-mobile-web-build/static/media/logo.5da5a874.png"
   },
   "entrypoints": [
     "static/js/runtime~app.dfba9f05.js",
-    "static/js/2.420bc8cd.chunk.js",
-    "static/js/app.ea53ca5b.chunk.js"
+    "static/js/2.2352a89c.chunk.js",
+    "static/js/app.851576fa.chunk.js"
   ]
 }
