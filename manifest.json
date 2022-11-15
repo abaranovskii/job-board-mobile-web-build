@@ -8,6 +8,10 @@
   "orientation": "portrait",
   "related_applications": [
     {
+      "platform": "itunes",
+      "id": "net.artellect.app"
+    },
+    {
       "platform": "play",
       "url": "http://play.google.com/store/apps/details?id=com.dvs.jobboardmobile",
       "id": "com.dvs.jobboardmobile"
@@ -16,17 +20,17 @@
   "prefer_related_applications": true,
   "icons": [
     {
-      "src": "\\job-board-mobile-web-build\\pwa\\chrome-icon\\chrome-icon-144.png",
+      "src": "\\pwa\\chrome-icon\\chrome-icon-144.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "\\job-board-mobile-web-build\\pwa\\chrome-icon\\chrome-icon-192.png",
+      "src": "\\pwa\\chrome-icon\\chrome-icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "\\job-board-mobile-web-build\\pwa\\chrome-icon\\chrome-icon-512.png",
+      "src": "\\pwa\\chrome-icon\\chrome-icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
